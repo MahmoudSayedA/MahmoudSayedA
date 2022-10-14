@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MahmoudSayedA
+- 👋 Hi, I’m Mahmoud Sayed
 - 👀 I’m interested in development for web and mobile apps
 - 🌱 I’m currently learning to desgin software with Java and apply desgin pattern
 - 🔧 I’m currently working on Bank System app
