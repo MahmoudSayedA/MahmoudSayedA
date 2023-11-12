@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Mahmoud Sayed
 - 👀 I’m interested in development for web development and problem solving
 - 🌱 I’m currently learning full-stack development and machine learning
-- 🔧 I’m currently working on [Bank System](https://github.com/MahmoudSayedA/Bank-System) app and [Exam Management System](https://github.com/MahmoudSayedA/Exam_Manegment)
+- 🔧 I’m currently working on [Deal Depot](https://github.com/MahmoudSayedA/deal-depot) app and [Exam Management System](https://github.com/MahmoudSayedA/Exam_Manegment)
 - 📫 How to reach me ... [mail](mahmoudsayed1332002@gmail.com)
 
 <!---
