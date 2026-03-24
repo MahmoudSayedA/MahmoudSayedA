@@ -8,7 +8,7 @@ Backend Engineer (.NET) with full-stack experience, focused on building scalable
 - 💻 Backend Engineer specializing in **ASP.NET Core** and **SQL Server**
 - 🏗️ Experience building **production systems** across e-commerce, ISP management, GIS, and marketplaces
 - 🧠 Strong interest in **system design, clean architecture, and performance optimization**
-- 🚀 Full-Stack Engineer at [**RooTech Software Solutions**](https://www.linkedin.com/company/rootech-solutions)
+<!-- - 🚀 Full-Stack Engineer at [**RooTech Software Solutions**](https://www.linkedin.com/company/rootech-solutions) -->
 - 🌍 Comfortable working with distributed teams and real-world constraints
 
 ---
